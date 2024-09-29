@@ -20,8 +20,9 @@ Insights and recommendations are provided for these following areas:
   SQL queries used to answer specific business quesions can be found here.
   The tables and data model used can be found here. https://lucid.app/lucidchart/5b5eb739-3350-4fd0-a3fe-c15e840668a5/edit?viewport_loc=156%2C-707%2C4403%2C1896%2C0_0&invitationId=inv_4b6bf689-a4f8-4b63-a49a-9fc6237df2b8
 
-![image](https://github.com/user-attachments/assets/1c728003-15d9-4e01-ae2f-3546eefd9527)
-![image](https://github.com/user-attachments/assets/6d4257a9-c0b1-48cb-965c-5016f917d483)
+![image](https://github.com/user-attachments/assets/452d9c24-da71-4bbe-a296-0fe1110066c5)
+![image](https://github.com/user-attachments/assets/4706219d-a5fe-4544-bd22-7bf7ecf96e2a)
+
 
 
 
