@@ -1,4 +1,4 @@
-# PowerBI_Insights
+# Business Insights
 Dashb board link:
 https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
@@ -16,8 +16,8 @@ Insights and recommendations are provided for these following areas:
 - **Product Performance**:
 - **Customer Performance**:
 
-  An interactive Power BI dashbaord can be found here.
-  SQL queries used to answer specific business quesions can be found here.
+  An interactive Power BI dashbaord with additional insights and analysis can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9). /n
+  SQL queries used to answer specific business quesions requested by management for ad hoc analysis can be found [here]()./n
 
 
 
@@ -38,7 +38,7 @@ The analysis is based on the following datasets:
 - post_invoice_deductions: Includes deductions applied after invoicing, such as discounts or returns.
 - pre_invoice_deductions: Contains deductions applied before invoicing, like early payment discounts or promotional offers.
 
-The data model ERD can be found here https://lucid.app/lucidchart/5b5eb739-3350-4fd0-a3fe-c15e840668a5/edit?viewport_loc=156%2C-707%2C4403%2C1896%2C0_0&invitationId=inv_4b6bf689-a4f8-4b63-a49a-9fc6237df2b8
+The data model ERD can be found [here](https://lucid.app/lucidchart/5b5eb739-3350-4fd0-a3fe-c15e840668a5/edit?viewport_loc=156%2C-707%2C4403%2C1896%2C0_0&invitationId=inv_4b6bf689-a4f8-4b63-a49a-9fc6237df2b8)
 
 ![image](https://github.com/user-attachments/assets/452d9c24-da71-4bbe-a296-0fe1110066c5)
 ![image](https://github.com/user-attachments/assets/4706219d-a5fe-4544-bd22-7bf7ecf96e2a)
