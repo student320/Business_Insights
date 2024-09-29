@@ -20,6 +20,9 @@ Insights and recommendations are provided for these following areas:
   SQL queries used to answer specific business quesions can be found here.
   The tables and data model used can be found here. https://lucid.app/lucidchart/5b5eb739-3350-4fd0-a3fe-c15e840668a5/edit?viewport_loc=156%2C-707%2C4403%2C1896%2C0_0&invitationId=inv_4b6bf689-a4f8-4b63-a49a-9fc6237df2b8
 
+  ![image](https://github.com/user-attachments/assets/9fa43d7b-d7f4-435b-9f0b-15a3e591932c)
+
+
 
 ## Company Background
 Atliq Hardwares is a technology hardware company that sells multiple categories of electronic products through channels such as retailers, distributors, and direct sales, catering to well-known companies worldwide. Atliq's business model involves both business-to-business (B2B) and business-to-consumer (B2C) sales; however, the largest portion of revenue comes from B2B transactions. The company focuses on selling in-demand products and maintaining strong customer relationships, which are crucial for its operations.
