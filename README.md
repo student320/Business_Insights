@@ -18,8 +18,7 @@ Insights and recommendations are provided for these following areas:
 
   An interactive Power BI dashbaord can be found here.
   SQL queries used to answer specific business quesions can be found here.
-  The tables and data model used can be found here. https://lucid.app/lucidchart/5b5eb739-3350-4fd0-a3fe-c15e840668a5/edit?beaconFlowId=4EA5D932438B67C3&invitationId=inv_4b6bf689-a4f8-4b63-a49a-9fc6237df2b8&page=0_0
-  
+  The tables and data model used can be found here. https://lucid.app/lucidchart/5b5eb739-3350-4fd0-a3fe-c15e840668a5/edit?viewport_loc=156%2C-707%2C4403%2C1896%2C0_0&invitationId=inv_4b6bf689-a4f8-4b63-a49a-9fc6237df2b8
 
 
 ## Company Background
