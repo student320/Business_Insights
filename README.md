@@ -1,5 +1,4 @@
-# Business Insights
-# PowerBI Business Insights for Technology Hardware Company - Project Overview
+# Business Insights for Technology Hardware Company - Project Overview
 
 ## Project Goal
 This Power BI project aims to provide a comprehensive view of year-over-year (YoY) company performance from multiple perspectives while offering insights into overall product and customer performance. The analysis focuses on Atliq Hardware, a technology hardware company, and employs key performance indicators (KPIs) to assess the company’s standing. The primary objectives of the analysis are to 1) drive company growth and increase net sales, 2) improve profitability, and 3) optimize the product portfolio. Based on the findings, recommendations will be provided to help achieve these goals.
