@@ -40,8 +40,9 @@ Atliq Hardware's data model can be seen below with a total row count of 1,858,32
 The data model ERD can be found [here](https://lucid.app/lucidchart/5b5eb739-3350-4fd0-a3fe-c15e840668a5/view)
 
 
-![image](https://github.com/user-attachments/assets/452d9c24-da71-4bbe-a296-0fe1110066c5)
-![image](https://github.com/user-attachments/assets/4706219d-a5fe-4544-bd22-7bf7ecf96e2a)
+![image](https://github.com/user-attachments/assets/101500fb-b627-45b7-9a58-24bab7d953b7)
+![image](https://github.com/user-attachments/assets/29f7704c-28eb-4ea5-aedf-df519e6a38e9)
+
 
 
 
