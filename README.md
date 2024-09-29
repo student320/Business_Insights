@@ -18,25 +18,30 @@ Insights and recommendations are provided for these following areas:
 
   An interactive Power BI dashbaord can be found here.
   SQL queries used to answer specific business quesions can be found here.
-  The tables and data model used can be found here. https://lucid.app/lucidchart/5b5eb739-3350-4fd0-a3fe-c15e840668a5/edit?viewport_loc=156%2C-707%2C4403%2C1896%2C0_0&invitationId=inv_4b6bf689-a4f8-4b63-a49a-9fc6237df2b8
-
-![image](https://github.com/user-attachments/assets/452d9c24-da71-4bbe-a296-0fe1110066c5)
-![image](https://github.com/user-attachments/assets/4706219d-a5fe-4544-bd22-7bf7ecf96e2a)
-
-
-
-
-
-
-
 
 
 
 ## Company Background
 Atliq Hardwares is a technology hardware company that sells multiple categories of electronic products through channels such as retailers, distributors, and direct sales, catering to well-known companies worldwide. Atliq's business model involves both business-to-business (B2B) and business-to-consumer (B2C) sales; however, the largest portion of revenue comes from B2B transactions. The company focuses on selling in-demand products and maintaining strong customer relationships, which are crucial for its operations.
 
-## Dataset Structure
-The datasets used in this analysis consists of the following information:
-(insert entity relationship diagram here:)
+## Data Model Entity Relationship Diagram (ERD)
+The analysis is based on the following datasets:
+
+- dim_customer: Contains information on customer details, including customer code, name, and other demographic or business attributes.
+- dim_market: Provides market-related data, including regions, sub-zones, and other geographical or market segmentation details.
+- dim_product: Holds details about products, such as product code, category, and other product-specific attributes.
+- fact_sales_monthly: Contains monthly sales data, including sales quantities, revenue, and other relevant sales metrics.
+- fact_forecast_monthly: Includes forecasted sales data for upcoming periods, with estimated quantities and revenue predictions.
+- freight_cost: Data related to shipping and transportation costs incurred during product delivery.
+- gross_price: Contains information on the gross price of products before any deductions or adjustments.
+- manufacturing_cost: Tracks the costs associated with producing goods, including materials, labor, and overhead.
+- post_invoice_deductions: Includes deductions applied after invoicing, such as discounts or returns.
+- pre_invoice_deductions: Contains deductions applied before invoicing, like early payment discounts or promotional offers.
+
+The data model ERD can be found here https://lucid.app/lucidchart/5b5eb739-3350-4fd0-a3fe-c15e840668a5/edit?viewport_loc=156%2C-707%2C4403%2C1896%2C0_0&invitationId=inv_4b6bf689-a4f8-4b63-a49a-9fc6237df2b8
+
+![image](https://github.com/user-attachments/assets/452d9c24-da71-4bbe-a296-0fe1110066c5)
+![image](https://github.com/user-attachments/assets/4706219d-a5fe-4544-bd22-7bf7ecf96e2a)
+
 
 
