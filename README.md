@@ -1,7 +1,4 @@
 # Business Insights
-Dashb board link:
-https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
 # PowerBI Business Insights for Technology Hardware Company - Project Overview
 
 ## Project Goal
@@ -16,8 +13,9 @@ Insights and recommendations are provided for these following areas:
 - **Product Performance**:
 - **Customer Performance**:
 
-  An interactive Power BI dashbaord with additional insights and analysis can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9). /n
-  SQL queries used to answer specific business quesions requested by management for ad hoc analysis can be found [here]()./n
+  An interactive Power BI dashbaord with additional insights and analysis can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+  
+  SQL queries used to answer specific business quesions requested by management for ad hoc analysis can be found [here]().
 
 
 
