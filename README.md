@@ -44,5 +44,8 @@ The data model ERD can be found [here](https://lucid.app/lucidchart/5b5eb739-335
 ![image](https://github.com/user-attachments/assets/29f7704c-28eb-4ea5-aedf-df519e6a38e9)
 
 
+## Executive Summary
+
+**Overview of Insights**
 
 
