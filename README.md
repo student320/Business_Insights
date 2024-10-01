@@ -8,9 +8,9 @@ Atliq Hardware has a wealth of data related to finance, sales, marketing, supply
 Insights and recommendations are provided for these following areas:
 - **YoY Profit & Loss Statement**:
 - **Sales Analysis**:
+  - **Product Performance**:
+  - **Customer Performance**:
 - **Supply Chain Forecast Accuracy Trend**:
-- **Product Performance**:
-- **Customer Performance**:
 
   An interactive Power BI dashbaord with additional insights and analysis can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
   
@@ -47,5 +47,21 @@ The data model ERD can be found [here](https://lucid.app/lucidchart/5b5eb739-335
 ## Executive Summary
 
 **Overview of Insights**
+Up to and including the 2021 fiscal year, the company has remained in its growth phase and has not yet reached profitability. The primary focus has been on increasing market share and building brand recognition. In 2021, the company experienced significant expansion, with net sales increasing by 207.43% year-over-year (YoY), while the gross margin percentage remained robust, with only a slight decrease of 1.65%. The following sections will provide a more in-depth analysis of additional factors impacting performance and present recommendations for the company's future strategy.
+
+Below is a snapshot from the Power BI report dashboard of the **YoY Profit and Loss Statement** for the fiscal year of 2021.  
+The full interactive dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+
+![image](https://github.com/user-attachments/assets/b01e9230-6eb1-480f-9dda-cc6dcc5a15cf)
+
+**Sales Analysis**
+**Customer Performance**
+**Product Performance**
+**Supply Chain Forecast Evaluation**
+
+## Recommendations
+
+
+
 
 
