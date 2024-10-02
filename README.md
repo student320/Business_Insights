@@ -47,20 +47,37 @@ The data model ERD can be found [here](https://lucid.app/lucidchart/5b5eb739-335
 ## Executive Summary
 
 **Overview of Insights**
-Up to and including the 2021 fiscal year, the company has remained in its growth phase and has not yet reached profitability. The primary focus has been on increasing market share and building brand recognition. In 2021, the company experienced significant expansion, with net sales increasing by 207.43% year-over-year (YoY), while the gross margin percentage remained robust, with only a slight decrease of 1.65%. The following sections will provide a more in-depth analysis of additional factors impacting performance and present recommendations for the company's future strategy.
+The following sections will provide a more in-depth analysis of additional factors impacting performance and present recommendations for the company's future strategy.  
 
-Below is a snapshot from the Power BI report dashboard of the **YoY Profit and Loss Statement** for the fiscal year of 2021.  
-The full interactive dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+**YoY Profit and Loss Statement** for the fiscal year of 2021:  
+Up to and including the 2021 fiscal year, the company has remained in its growth phase and has not yet achieved profitability. The primary focus has been on increasing market share and building brand recognition. In 2021, the company experienced significant expansion, with **net sales rising by 207.43% year-over-year (YoY)**, while the **Gross Margin %** remained strong, with only a **slight decline of 1.65%**. However, projections for 2022 indicate that **overall profitability will remain negative and may decrease further**. Therefore, the company should **prioritize profitability as a key objective**.
+![image](https://github.com/user-attachments/assets/b01e9230-6eb1-480f-9dda-cc6dcc5a15cf)  
 
-![image](https://github.com/user-attachments/assets/b01e9230-6eb1-480f-9dda-cc6dcc5a15cf)
+**Sales Analysis** for the fiscal year of 2021:
+- The **top-performing countries** in terms of Net Sales and Gross Margin % are the **USA**, **India**, and **Canada**, as illustrated in the performance matrix below.  
 
-**Sales Analysis**
+- **Our leading customers are:**
+  - **Amazon**: Net sales of $109.03M USD with a Gross Margin % of 35.40%.
+  - **AtliQ Exclusive**: Net sales of $79.92M USD with a Gross Margin % of 43.73%.
+  - **AtliQ eStore**: Net sales of $70.31M USD with a Gross Margin % of 37.54%.  
+ 
+- The **best-performing product categories** are **Notebooks** ($266.49M USD Net Sales) and **Accessories** ($244.85M USD Net Sales), both with a Gross Margin % of approximately 36%, significantly outperforming other segments.
+![image](https://github.com/user-attachments/assets/ea569cba-bf2f-4324-9565-f4c30ff4ff14)
+
 **Customer Performance**
+![image](https://github.com/user-attachments/assets/d3637dc7-a7f7-41d0-b213-b1978c7785b0)
+
 **Product Performance**
+![image](https://github.com/user-attachments/assets/ae174505-8f60-4fdd-88a3-fd5f04e834e1)
+
 **Supply Chain Forecast Evaluation**
+![image](https://github.com/user-attachments/assets/80cac246-5a75-4884-b376-9e5ea492592d)
+
+
+The full interactive report is available with more dashboards [here](https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Recommendations
-
+- As we have already established growth and brand recognition, it is crucial to develop strategies aimed at achieving profitability. Given our strong gross margin, variable costs related to our products and customers are not an issue; instead, operational costs are the primary barrier to profitability. We should begin strategizing on how to enhance operational efficiency and potentially reduce fixed costs.
 
 
 
