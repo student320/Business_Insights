@@ -47,7 +47,7 @@ The data model ERD can be found [here](https://lucid.app/lucidchart/5b5eb739-335
 ## Executive Summary
 
 **Overview of Insights**
-The following sections will provide a more in-depth analysis of additional factors impacting performance and present recommendations for the company's future strategy.  
+The following sections will provide a breif analysis of factors impacting performance and present recommendations for the company's future strategy.  
 
 **YoY Profit and Loss Statement** for the fiscal year of 2021:  
 Up to and including the 2021 fiscal year, the company has remained in its growth phase and has not yet achieved profitability. The primary focus has been on increasing market share and building brand recognition. In 2021, the company experienced significant expansion, with **net sales rising by 207.43% year-over-year (YoY)**, while the **Gross Margin %** remained strong, with only a **slight decline of 1.65%**. However, projections for 2022 indicate that **overall profitability will remain negative and may decrease further**. Therefore, the company should **prioritize profitability as a key objective**.
@@ -59,10 +59,33 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
 - **Our leading customers are:**
   - **Amazon**: Net sales of $109.03M USD with a Gross Margin % of 35.40%.
   - **AtliQ Exclusive**: Net sales of $79.92M USD with a Gross Margin % of 43.73%.
-  - **AtliQ eStore**: Net sales of $70.31M USD with a Gross Margin % of 37.54%.  
+  - **AtliQ eStore**: Net sales of $70.31M USD with a Gross Margin % of 37.54%.
  
-- The **best-performing product Segments** are **Notebooks** ($266.49M USD Net Sales) and **Accessories** ($244.85M USD Net Sales), both with a Gross Margin % of approximately 36%, significantly outperforming other segments.
-![image](https://github.com/user-attachments/assets/ea569cba-bf2f-4324-9565-f4c30ff4ff14)
+- **Our worst performing customers are:**
+  - ** **: Net sales of $M USD with a Gross Margin % of %.
+  - ** **: Net sales of $M USD with a Gross Margin % of %.
+  - ** **: Net sales of $M USD with a Gross Margin % of %.
+ 
+  ![image](https://github.com/user-attachments/assets/ea569cba-bf2f-4324-9565-f4c30ff4ff14)
+ 
+- The **best-performing product segments are:**
+  - **Notebooks**: Net Sales of $266.49M USD with Gross Margin % of 36.47%.
+    - **Personal Laptops** are the top category with Net Sales of $113.07M USD and Gross Margin % of %. 
+  - **Accessories**: Net Sales of $244.85M USD with a Gross Margin % of 36.45%
+    - **Keyboards** are the top category with Net Sales of $134.14M USD  and Gross Margin % of %.
+   
+  - The **worst-performing product segment is:**
+  - ** **: Net Sales of $M USD with Gross Margin % of %.
+    - ** ** are the top category with Net Sales of $M USD and Gross Margin % of %.
+  - ** **: Net Sales of $M USD with a Gross Margin % of 36.45%
+    - ** ** are the top category with Net Sales of $M USD and Gross Margin % of %.
+   
+  ![image](https://github.com/user-attachments/assets/395cf3f8-e556-40c0-899b-6a53e1b69969)
+
+
+- ![image](https://github.com/user-attachments/assets/b2bd8174-4f9d-4777-9668-e964ecf54fe3)
+
+
 
 
 
@@ -74,6 +97,8 @@ The full interactive report is available with more dashboards [here](https://app
 
 ## Recommendations
 - As we have already established growth and brand recognition, it is crucial to develop strategies aimed at achieving profitability. Given our strong gross margin, variable costs related to our products and customers are not an issue; instead, operational costs are the primary barrier to profitability. We should begin strategizing on how to enhance operational efficiency and potentially reduce fixed costs.
+![image](https://github.com/user-attachments/assets/e15124d2-1f3e-42f7-992b-563d9f5f8639)
+
 
 
 **Appendix**
