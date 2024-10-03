@@ -69,7 +69,7 @@ from gdb041.dim_product
 group by segment
 order by product_count desc;
 
--- 4. Segment woth the most increase in unique products in 2021 vs 2020?
+-- 4. Segment with the most increase in unique products in 2021 vs 2020?
 with cte1 as 
 (select 
 	p.segment, 
