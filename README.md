@@ -61,14 +61,10 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
   - **AtliQ Exclusive**: Net sales of $79.92M USD with a Gross Margin % of 43.73%.
   - **AtliQ eStore**: Net sales of $70.31M USD with a Gross Margin % of 37.54%.  
  
-- The **best-performing product categories** are **Notebooks** ($266.49M USD Net Sales) and **Accessories** ($244.85M USD Net Sales), both with a Gross Margin % of approximately 36%, significantly outperforming other segments.
+- The **best-performing product Segments** are **Notebooks** ($266.49M USD Net Sales) and **Accessories** ($244.85M USD Net Sales), both with a Gross Margin % of approximately 36%, significantly outperforming other segments.
 ![image](https://github.com/user-attachments/assets/ea569cba-bf2f-4324-9565-f4c30ff4ff14)
 
-**Customer Performance**
-![image](https://github.com/user-attachments/assets/d3637dc7-a7f7-41d0-b213-b1978c7785b0)
 
-**Product Performance**
-![image](https://github.com/user-attachments/assets/ae174505-8f60-4fdd-88a3-fd5f04e834e1)
 
 **Supply Chain Forecast Evaluation**
 ![image](https://github.com/user-attachments/assets/80cac246-5a75-4884-b376-9e5ea492592d)
@@ -80,5 +76,14 @@ The full interactive report is available with more dashboards [here](https://app
 - As we have already established growth and brand recognition, it is crucial to develop strategies aimed at achieving profitability. Given our strong gross margin, variable costs related to our products and customers are not an issue; instead, operational costs are the primary barrier to profitability. We should begin strategizing on how to enhance operational efficiency and potentially reduce fixed costs.
 
 
+**Appendix**
+**more in depth Customer Performance**
+![image](https://github.com/user-attachments/assets/d3637dc7-a7f7-41d0-b213-b1978c7785b0)
+
+**more in depth Product Performance**
+![image](https://github.com/user-attachments/assets/ae174505-8f60-4fdd-88a3-fd5f04e834e1)
+
+**SQL Queries used for Ad Hoc Analysis**
+(https://github.com/student320/Business_Insights/blob/main/Business_Insights.sql).
 
 
