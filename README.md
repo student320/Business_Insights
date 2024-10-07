@@ -77,7 +77,7 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
     - **Accessories**: Net Sales of $244.85M USD with a Gross Margin % of 36.45%
       - **Keyboards** are the top category with Net Sales of $134.14M USD  and Gross Margin % of %.
      
-    - The **worst-performing product segment is:**
+    - The **worst-performing product segments are:**
     - ** **: Net Sales of $M USD with Gross Margin % of %.
       - ** ** are the top category with Net Sales of $M USD and Gross Margin % of %.
     - ** **: Net Sales of $M USD with a Gross Margin % of 36.45%
