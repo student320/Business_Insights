@@ -86,7 +86,6 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
   ![image](https://github.com/user-attachments/assets/395cf3f8-e556-40c0-899b-6a53e1b69969)
 
 
-- ![image](https://github.com/user-attachments/assets/b2bd8174-4f9d-4777-9668-e964ecf54fe3)
 
 
 
