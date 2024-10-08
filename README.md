@@ -56,7 +56,8 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
 
 **Sales Analysis** for the fiscal year of 2021:
   - **Customer Performance:**
-    - The **top-performing countries** in terms of Net Sales and Gross Margin % are the **USA**, **India**, and **Canada**, as illustrated in the performance matrix below.  
+    - The **top-performing countries** in terms of Net Sales and Gross Margin % are the **USA**, **India**, and **Canada**, as illustrated in the performance matrix below.
+    - The **worst-performing countries** are **Columbia**, **Austria**, and **Italy**.
     
     - **Our leading customers are:**
       - **Amazon**: Net sales of $109.03M USD with a Gross Margin % of 35.40%.
@@ -64,11 +65,12 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
       - **AtliQ eStore**: Net sales of $70.31M USD with a Gross Margin % of 37.54%.
      
     - **Our worst performing customers are:**
-      - ** **: Net sales of $M USD with a Gross Margin % of %.
-      - ** **: Net sales of $M USD with a Gross Margin % of %.
-      - ** **: Net sales of $M USD with a Gross Margin % of %.
+      - **Nova**: Net sales of 0.46$M USD with a Gross Margin % of 26.65%.
+      - **All-Out**: Net sales of 1.06$M USD with a Gross Margin % of 47.53%.
+      - **Notebilling**: Net sales of 1.47$M USD with a Gross Margin % of 18.28%.
    
-  ![image](https://github.com/user-attachments/assets/ea569cba-bf2f-4324-9565-f4c30ff4ff14)
+  ![image](https://github.com/user-attachments/assets/a889c2ec-34ff-4d9e-9553-0e8dff11fdfb)
+
 
  - **Product Perfoamnce:**
   - The **best-performing product segments are:**
@@ -78,10 +80,10 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
       - **Keyboards** are the top category with Net Sales of $134.14M USD  and Gross Margin % of %.
      
     - The **worst-performing product segments are:**
-    - ** **: Net Sales of $M USD with Gross Margin % of %.
-      - ** ** are the top category with Net Sales of $M USD and Gross Margin % of %.
-    - ** **: Net Sales of $M USD with a Gross Margin % of 36.45%
-      - ** ** are the top category with Net Sales of $M USD and Gross Margin % of %.
+    - **Desktops**: Net Sales of $46.43M USD with Gross Margin % of 36.17%.
+      - **Personal Desktops** are the worst category with Net Sales of $12.68M USD and Gross Margin % of 36.70%.
+    - **Networking**: Net Sales of $45.16M USD with a Gross Margin % of 36.75%
+      - **Wifi Externder** is the  only category in Networking segment.
    
   ![image](https://github.com/user-attachments/assets/395cf3f8-e556-40c0-899b-6a53e1b69969)
 
