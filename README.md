@@ -49,12 +49,12 @@ The data model ERD can be found [here](https://lucid.app/lucidchart/5b5eb739-335
 **Overview of Insights**
 The following sections will provide a breif analysis of factors impacting performance and present recommendations for the company's future strategy.  
 
-**YoY Profit and Loss Statement** for the fiscal year of 2021:  
+## YoY Profit and Loss Statement for the fiscal year of 2021:  
 
 Up to and including the 2021 fiscal year, the company has remained in its growth phase and has not yet achieved profitability. The primary focus has been on increasing market share and building brand recognition. In 2021, the company experienced significant expansion, with **net sales rising by 207.43% year-over-year (YoY)**, while the **Gross Margin %** remained strong, with only a **slight decline of 1.65%**. However, projections for 2022 indicate that **overall profitability will remain negative and may decrease further**. Therefore, the company should **prioritize profitability as a key objective**.
 ![image](https://github.com/user-attachments/assets/b01e9230-6eb1-480f-9dda-cc6dcc5a15cf)  
 
-**Sales Analysis** for the fiscal year of 2021:
+## Sales Analysis for the fiscal year of 2021:
   - **Customer Performance:**
     - The **top-performing countries** in terms of Net Sales and Gross Margin % are the **USA**, **India**, and **Canada**, as illustrated in the performance matrix below.
     - The **worst-performing countries** are **Columbia**, **Austria**, and **Italy**.
@@ -87,7 +87,7 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
 
 
     
-**Supply Chain Forecast Evaluation**
+## Supply Chain Forecast Evaluation:
 - For the fiscal year 2021, the company achieved an impressive **forecast accuracy of 80.21%**, an **improvement of 9.88%** compared to the previous fiscal year.
 - The net error in quantity sold is **-751.71K units, a decline of 252.81%**. This negative net error indicates that we have been over-forecasting sales, which could lead to excess inventory for some products. 
 - Despite the improvement in forecast accuracy, there is a **risk of out-of-stock (OOS)** situations for high-demand products like **Notebooks** and **Accessories**, which could result in missed sales opportunities and customer dissatisfaction.
