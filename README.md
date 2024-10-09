@@ -68,11 +68,10 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
       - **Nova**: Net sales of 0.46$M USD with a Gross Margin % of 26.65%.
       - **All-Out**: Net sales of 1.06$M USD with a Gross Margin % of 47.53%.
       - **Notebilling**: Net sales of 1.47$M USD with a Gross Margin % of 18.28%.
-   
-  ![image](https://github.com/user-attachments/assets/a889c2ec-34ff-4d9e-9553-0e8dff11fdfb)
+    -   ![image](https://github.com/user-attachments/assets/a889c2ec-34ff-4d9e-9553-0e8dff11fdfb)
 
 
- - **Product Perfoamnce:**
+ - **Product Performance:**
   - The **best-performing product segments are:**
     - **Notebooks**: Net Sales of $266.49M USD with Gross Margin % of 36.47%.
       - **Personal Laptops** are the top category with Net Sales of $113.07M USD and Gross Margin % of 36.11%. 
@@ -84,11 +83,10 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
       - **Personal Desktops** are the worst category with Net Sales of $12.68M USD and Gross Margin % of 36.70%.
     - **Networking**: Net Sales of $45.16M USD with a Gross Margin % of 36.75%
       - **Wifi Externder** is the  only category in Networking segment.
-   
-  ![image](https://github.com/user-attachments/assets/395cf3f8-e556-40c0-899b-6a53e1b69969)
+    -   ![image](https://github.com/user-attachments/assets/395cf3f8-e556-40c0-899b-6a53e1b69969)
 
 
-
+    
 **Supply Chain Forecast Evaluation**
 - For the fiscal year 2021, the company achieved an impressive **forecast accuracy of 80.21%**, an **improvement of 9.88%** compared to the previous fiscal year.
 - The net error in quantity sold is **-751.71K units, a decline of 252.81%**. This negative net error indicates that we have been over-forecasting sales, which could lead to excess inventory for some products. 
