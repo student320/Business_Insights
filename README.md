@@ -75,7 +75,7 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
  - **Product Perfoamnce:**
   - The **best-performing product segments are:**
     - **Notebooks**: Net Sales of $266.49M USD with Gross Margin % of 36.47%.
-      - **Personal Laptops** are the top category with Net Sales of $113.07M USD and Gross Margin % of %. 
+      - **Personal Laptops** are the top category with Net Sales of $113.07M USD and Gross Margin % of 36.11%. 
     - **Accessories**: Net Sales of $244.85M USD with a Gross Margin % of 36.45%
       - **Keyboards** are the top category with Net Sales of $134.14M USD  and Gross Margin % of %.
      
@@ -89,30 +89,45 @@ Up to and including the 2021 fiscal year, the company has remained in its growth
 
 
 
-
-
-
-
 **Supply Chain Forecast Evaluation**
-![image](https://github.com/user-attachments/assets/80cac246-5a75-4884-b376-9e5ea492592d)
+- For the fiscal year 2021, the company achieved an impressive **forecast accuracy of 80.21%**, an **improvement of 9.88%** compared to the previous fiscal year.
+- The net error in quantity sold is **-751.71K units, a decline of 252.81%**. This negative net error indicates that we have been over-forecasting sales, which could lead to excess inventory for some products. 
+- Despite the improvement in forecast accuracy, there is a **risk of out-of-stock (OOS)** situations for high-demand products like **Notebooks** and **Accessories**, which could result in missed sales opportunities and customer dissatisfaction.
+- Product categories like **Networking** and **Storage** are facing **excess inventory (EI)** issues, as highlighted by the forecast error analysis. This can lead to increased costs for warehousing and obsolete stock, underscoring the need for more efficient inventory management and demand planning.
+![image](https://github.com/user-attachments/assets/dcdc678c-9bb4-413b-a7d7-de7427a2c7f3)
+
 
 
 The full interactive report is available with more dashboards [here](https://app.powerbi.com/view?r=eyJrIjoiZTUyYWY3MjUtNzI5Ny00MmY0LThlN2YtNDgxYTljOWIwZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Recommendations
 - As we have already established growth and brand recognition, it is crucial to develop strategies aimed at achieving profitability. Given our strong gross margin, variable costs related to our products and customers are not an issue; instead, operational costs are the primary barrier to profitability. We should begin strategizing on how to enhance operational efficiency and potentially reduce fixed costs.
-![image](https://github.com/user-attachments/assets/e15124d2-1f3e-42f7-992b-563d9f5f8639)
+
+- Recommendation for Customer Performance:
+  - Focus on Retention and Growth: While Amazon, AtliQ Exclusive, and AtliQ eStore are driving a significant portion of revenue and maintaining healthy gross margins, it’s crucial to develop strategies for retaining these top customers through enhanced customer service, personalized offers, or long-term contracts. Investing in deeper relationships with these key clients could lead to even more consistent performance and higher lifetime value.
+  - Improve Customer Segmentation for Lower Performers: The worst-performing customers like Nova, All-Out, and Notebilling present an opportunity to re-evaluate the company's engagement strategy. For Nova and Notebilling, their relatively low net sales and margins suggest potential misalignment with the company's product offering or pricing strategy. Conducting a deeper customer segmentation analysis might reveal insights on how to better serve these clients or whether to consider deprioritizing resources for underperforming segments.
+  - Regional Customer Development: With Columbia, Austria, and Italy underperforming, it’s essential to analyze the specific challenges in these regions. Whether the issues stem from economic conditions, distribution inefficiencies, or poor brand penetration, addressing these regional factors through tailored marketing, pricing, or logistical strategies could improve performance.
+ 
+- Recommendation for Product Performance:
+  - Invest in High-Performing Product Categories: With Notebooks and Accessories leading in sales and maintaining strong gross margins, these segments should be further developed. Consider expanding the product line within these categories, particularly for Personal Laptops and Keyboards, which are the top-performing subcategories. Focus on innovation and marketing to maintain their competitive edge and capitalize on customer demand.
+  - Reassess Underperforming Product Segments: The Desktops and Networking segments are trailing in performance. For Personal Desktops, the company could explore reasons for declining demand and consider pivoting the product line to better align with current market trends, possibly by introducing hybrid or compact desktop models. Similarly, for Networking, the reliance on a single category, the WiFi Extender, indicates a potential gap in the product offering. Expanding the networking product range could provide growth opportunities.
+
+- Inventory Risk Diversification: The mix of out-of-stock risks for some products and excess inventory for others indicates that the company needs to diversify its inventory risk management approach. Tailoring forecasts and supply chain strategies to specific product categories can help minimize both overstocking and stockouts.
 
 
 
-**Appendix**
-**more in depth Customer Performance**
+**Appendix**  
+
+**More in depth Customer Performance**  
+
 ![image](https://github.com/user-attachments/assets/d3637dc7-a7f7-41d0-b213-b1978c7785b0)
 
-**more in depth Product Performance**
+**More in depth Product Performance**  
+
 ![image](https://github.com/user-attachments/assets/ae174505-8f60-4fdd-88a3-fd5f04e834e1)
 
-**SQL Queries used for Ad Hoc Analysis**
+**SQL Queries used for Ad Hoc Analysis**  
+
 (https://github.com/student320/Business_Insights/blob/main/Business_Insights.sql).
 
 
